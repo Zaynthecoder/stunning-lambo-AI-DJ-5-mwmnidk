@@ -1,6 +1,7 @@
 //ok ok ok ok ok ok ok ok ok 
 //lambo
 scoreLeftWrist = "";
+scoreRightWrist = "";
 
 function preload() {    
     song = loadSound("music.mp3")
